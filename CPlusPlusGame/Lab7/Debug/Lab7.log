@@ -1,0 +1,37 @@
+﻿Build started 17/04/2014 18:42:34.
+     1>Project "C:\Users\Lee\Dropbox\cpp\CPlusPlusGame\Lab7\Lab7.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Id3d9.lib /Id3dx9.lib /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt TimerAnim.cpp
+         TimerAnim.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Lee\Dropbox\cpp\CPlusPlusGame\Debug\Lab7.exe" /INCREMENTAL /NOLOGO d3d9.lib d3dx9.lib DXUTOpt.lib winmm.lib dxerr.lib dinput8.lib dxguid.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST:NO /DEBUG /PDB:"C:\Users\Lee\Dropbox\cpp\CPlusPlusGame\Debug\Lab7.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Lee\Dropbox\cpp\CPlusPlusGame\Debug\Lab7.lib" /MACHINE:X86 Debug\GameResources.res
+         Debug\BoundingBox.obj
+         Debug\Bullet.obj
+         Debug\cBalloon.obj
+         Debug\cD3DManager.obj
+         Debug\cD3DXFont.obj
+         Debug\cD3DXSpriteMgr.obj
+         Debug\cD3DXTexture.obj
+         Debug\cExplosion.obj
+         Debug\cSprite.obj
+         Debug\cXAudio.obj
+         Debug\Enemy.obj
+         Debug\GameOverScreen.obj
+         Debug\GameScreen.obj
+         Debug\InstructionsScreen.obj
+         Debug\LoopBackground.obj
+         Debug\main.obj
+         Debug\MenuScreen.obj
+         Debug\RandomNumber.obj
+         Debug\ScreenManager.obj
+         Debug\Ship.obj
+         Debug\Timer.obj
+         Debug\TimerAnim.obj
+         DXUT.lib
+         DXUTOpt.lib
+         Lab7.vcxproj -> C:\Users\Lee\Dropbox\cpp\CPlusPlusGame\Debug\Lab7.exe
+     1>Done Building Project "C:\Users\Lee\Dropbox\cpp\CPlusPlusGame\Lab7\Lab7.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:07.45
